@@ -1,0 +1,29 @@
+---
+- Students: 
+  - name: anil
+    phone: 5487948752
+    address: 
+        doorNO(): 2545
+        street: 22nd
+        Pincode: 85710
+
+
+
+  - name: zion
+    phone:  5204878964
+    address:  
+        doorNO(): 5841
+        street: 29th
+        Pincode: 85723
+
+
+
+  - name: jayden
+    phone: 6048559678
+    address: 
+        doorNO(): 39th
+        street: 1st
+        Pincode: 60458
+
+
+
